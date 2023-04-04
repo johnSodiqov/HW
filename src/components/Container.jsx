@@ -7,7 +7,6 @@ const Container = () => {
     return (
         <div className='container'>
             <Nav/>
-            <Img/>
             <Main/>
             <Footer/>
         </div>
